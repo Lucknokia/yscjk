@@ -1,0 +1,101 @@
+马来西亚,#genre#
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+TV3,https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/cmaf-video=849984.m3u8
+TV4,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
+TV5,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+TV7,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
+TV8,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
+TV9,https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/live-audio_0=96000-video=600000.m3u8
+Astro Awani,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+OKEY TV,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1096000_slENG.m3u8?id=3
+IKIM TV,https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=33108129
+印度尼西亚,#genre#
+TRANS 7 Live,https://video.detik.com/trans7/smil:trans7.smil/chunklist_w530597537_b744100_sleng.m3u8
+Trans TV,https://video.detik.com/transtv/smil:transtv.smil/chunklist_w343543098_b744100_sleng.m3u8
+印度,#genre#
+High News,https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+MN Music,https://mntv.livebox.co.in/musichls/live.m3u8
+Zee News,https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+7x Music,https://stream.e2is.in/hls/7xMusic.m3u8
+ABP Hindi TV,https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+MUSIC INDIA,https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=247600.m3u8
+阿富汗,#genre#
+Ariana Afghan,https://iptv.arianaafgtv.com/ariana/playlist.m3u8
+Ariana TV,https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1532942397.m3u8
+Arezo tv,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1796604655.m3u8
+ATN News,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w252131651.m3u8
+泰国,#genre#
+公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+Channel 7,http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+ISTV,https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+MCOT TV,https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w1585484586_b3000000.m3u8
+TV 5,https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w1716978923.m3u8
+MVC,https://edge6a.v2h-cdn.com/mvc/mvc.stream/chunklist_w941544440.m3u8
+越南,#genre#
+DaNangTV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/playlist.m3u8
+DaNangTV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+BPTV1,https://lms-public-ingest.swiftfederation.com/bptvlive/tv1live_manifest.m3u8
+BPTV2,https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/chunklist.m3u8
+TRT,https://live.trt.com.vn/TRT-Online/playlist.m3u8
+PTP TV,http://113.161.4.48:8080/phuyen/tv/index.m3u8
+HậuGiang TV,https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1995375181.m3u8
+Đồng Nai 1,http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+Đồng Nai 2,http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+Ha Noi 1,https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w2009216447_b1864000_slen.m3u8
+Ha Noi 2,https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w1807493503_b1064000_slen.m3u8
+THTG,http://123.25.238.45:1935/live/thtg/chunklist_w1547893837.m3u8
+QTV,https://player.qtv.gm/hls/live.stream.m3u8
+Quochoitv,https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
+THVL1 HD,https://live3.thvli.vn/BvgNL4XSPZIm27WvIaZihg/1708237291/thvli/thvl1-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
+THVL2 HD,https://live3.thvli.vn/VNQ-NlvbxTL3OSVtReYOqQ/1708237577/thvli/thvl2-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
+THVL3 HD,https://live3.thvli.vn/OS2i3lInb3mlLX-IsFeP9w/1708237618/thvli/thvl3-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
+THVL4 HD,https://live3.thvli.vn/ROBL51ViZZV6lcPCBBadxw/1708237656/thvli/thvl4-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
+VOV TV,https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+VTC1,https://1117141481.vnns.net/vtc1-hd-abr/vtcnow/vtc1_hd_720p/chunks.m3u8
+VTC2,https://1117560646.vnns.net/VTC2/livevtcnow/VTC2_720p/chunks.m3u8
+VTC3,https://1117560646.vnns.net/VTC3/livevtcnow/VTC3_720p/chunks.m3u8
+VTC4,https://1117560646.vnns.net/VTC4/livevtcnow/VTC4_720p/chunks.m3u8
+VTC5,https://1117560646.vnns.net/VTC5/livevtcnow/VTC5_720p/chunks.m3u8
+VTC6,https://1117560646.vnns.net/VTC6/livevtcnow/VTC6_720p/chunks.m3u8
+VTC7,https://1117560646.vnns.net/VTC7/livevtcnow/VTC7_720p/chunks.m3u8
+VTC8,https://1117560646.vnns.net/VTC8/livevtcnow/VTC8_720p/chunks.m3u8
+VTC14,https://1117560646.vnns.net/VTC14/livevtcnow/VTC14_720p/chunks.m3u8
+VTC16,https://1117560646.vnns.net/VTC16/livevtcnow/VTC16_720p/chunks.m3u8
+老挝,#genre#
+LAO TV1,https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+LAO TV3,https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+Lao-Thai TV,https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+Lao SV TV,https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+Oh Muang Lao TV,https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
+LNTV 3 - Laos,https://edge1.laotv.la/live/LNTV3/sc-gaFECQ/v0_index.m3u8
+MV Lao TV,https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/chunklist_w1237484384.m3u8
+柬埔寨,#genre#
+TVK,https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+TVK 2,https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+SEA TV,https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+Bayon TV,https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
+BTV News,https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+CTV 9,https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
+TV5 Cambodia,https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+缅甸,#genre#
+Channel K,https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+MRTV,https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1958533816.m3u8
+MRTV4,https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w2112221451.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDI0IDE6MzI6MjggQU0maGFzaF92YWx1ZT1sRHVGeEJPU2EvdmlGZDIvZmhwUm5nPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz
+Mahar TV,https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+Channel7,https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDI0IDE6MjY6NTQgQU
+5 Plus,https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDI0IDI6MjA6MTAgQU0maGFzaF92YWx1ZT1FdUZWN29RZXdlSEdnN1phVURWRUtnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEy
+MITV,https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w1077003455.m3u8
+MRTV Entertainment,https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1773974112.m3u8
+央视,#genre#
+CCTV-1 综合,https://edge1.laotv.la/live/CCTV1/sc-gaFECQ/v0_index.m3u8
+未分类,#genre#
+News BTV,https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+NEWS 24H,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+Ln24SA News,https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/chunklist.m3u8
